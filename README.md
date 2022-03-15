@@ -1,5 +1,14 @@
 
-# Getting Started with Create React App
+# Object Detection Application using React and Tensorflow.Js
+
+A web application is built using ReactJS with TensforFlow.js API for object detection, specifically COCO-SSD detection model which relies on Tensorflow for object
+recognition. It is very well trained and capable of detecting more than 90 classes from (Dogs, Cats, People, Cars...).
+
+More information is mentioned in the Software Design Document with working application snippets and wireframes.
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
